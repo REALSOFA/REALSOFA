@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @REALSOFA
-- 👀 I’m interested in typing code and skateboarding
-- 🌱 I’m currently learning HTML
 - 📫 How to reach me 18878791474@163.com
-- 你好，初次来到github请多关照！
